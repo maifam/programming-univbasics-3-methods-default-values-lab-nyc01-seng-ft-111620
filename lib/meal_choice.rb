@@ -8,4 +8,4 @@ def meal_choice(veg1, veg2, protein = 'tofu')
   return meal
 end
 
-meal_choice('carrots', 'string breans', 'lentils')
+puts meal_choice('carrots', 'string breans', 'lentils')
